@@ -10,5 +10,5 @@ function primeOrNot(num){
     
         return`${num} is a prime number`;
     }
-   console.log(primeOrNot(15))
+   console.log(primeOrNot(10))
    console.log(primeOrNot(11))
